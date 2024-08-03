@@ -1,4 +1,3 @@
-package com.mithun.leetcode75.arraysstrings;
 import java.util.*;
 public class removeElement {
     public static void main(String[] args) {
