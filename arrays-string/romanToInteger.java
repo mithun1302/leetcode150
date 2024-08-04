@@ -3,7 +3,7 @@ package com.mithun.leetcode150.arraysstring;
 import java.util.HashMap;
 import java.util.Map;
 
-public class program13 {
+public class romanToInteger {
     public static void main(String[] args) {
         String s = "MCMXCIV";
         int output = 0;
