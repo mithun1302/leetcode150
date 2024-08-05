@@ -1,4 +1,3 @@
-package com.mithun.leetcode150.arraysstring;
 
 import java.util.HashMap;
 import java.util.Map;
